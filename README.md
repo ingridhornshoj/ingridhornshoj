@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on my food blog
+- 🌱 I’m currently learning to be a nurse
+- - 💬 Ask me about anything
 <!--
 **ingridhornshoj/ingridhornshoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
